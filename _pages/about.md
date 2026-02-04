@@ -25,4 +25,4 @@ Currently, I am working on an undergraduate research project (URP) focusing on *
 * **Machine Learning:** Deep Learning application in Math, Representation Learning
 
 ### Contact
-* **Email**: minhyuk.lee.math@gmail.com
+* **Email:** minhyuk.lee.####@gmail.com (Replace `####` with `math`)
