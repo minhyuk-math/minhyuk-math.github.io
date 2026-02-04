@@ -16,7 +16,7 @@ Currently, I am working on an undergraduate research project (URP)
 ### 🏫 Education
 * **Sungkyunkwan University (SKKU)**, Suwon, South Korea
   * B.S. in Mathematics (Expected Feb 2027)
-  * GPA: 4.36 / 4.5 (**Major** 4.38 / 4.5)
+  * GPA: 4.36 / 4.5 (Major 4.38 / 4.5)
 
 ### 🔬 Research Interests
 * **Topology:** Knot Theory, Braid Groups
