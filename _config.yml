@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Minhyuk Lee / Minhyuk Lee"
+title                    : "Minhyuk Lee"
 title_separator          : "-"
 name                     : &name "Minhyuk Lee"
 description              : &description "Undergraduate Student in Mathematics @ SKKU"   # Update this with a general description of your site, this is the default if not overridden by a page
