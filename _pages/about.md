@@ -13,14 +13,14 @@ My research interests lie at the intersection of **Knot Theory (Topology)** and 
 
 Currently, I am working on an undergraduate research project (URP)
 
-### 🏫 Education
+### Education
 * **Sungkyunkwan University (SKKU)**, Suwon, South Korea
   * B.S. in Mathematics (Expected Feb 2027)
   * GPA: 4.36 / 4.5 (Major 4.38 / 4.5)
 
-### 🔬 Research Interests
+### Research Interests
 * **Topology:** Knot Theory, Braid Groups
 * **Machine Learning:** Deep Learning application in Math, Representation Learning
 
-### 📧 Contact
+### Contact
 * Email: minyuk.lee.math@gmail.com
