@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## 🧬 Undergraduate Research Program (URP)
+##  Undergraduate Research Program (URP)
   
 ### 1. Application of Machine Learning to Knot Invariants
 * **Period:** Feb 2026 - Present
