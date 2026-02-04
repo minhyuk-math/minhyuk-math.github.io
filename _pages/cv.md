@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+**Minhyuk Lee** Undergraduate Student in Mathematics @ Sungkyunkwan University (SKKU)  
+* **Email:** minhyuk.lee.####@gmail.com (Replace `####` with `math`)
+* **Web:** [https://minhyuk-math.github.io](https://minhyuk-math.github.io)
+
+---
+
 ## Education
 * **Sungkyunkwan University (SKKU)**, Suwon, South Korea
   * B.S. in Mathematics (Expected Feb 2027)
@@ -59,3 +65,6 @@ redirect_from:
 ## Academic Service & Leadership
 * **Organizer**, Mathematics Conference for Undergraduate Students (MCUS) 2026
 * **Vice President**, MIMIC (Academic Club of Mathematics), SKKU (2025 - Present)
+
+---
+
