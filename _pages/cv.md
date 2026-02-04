@@ -1,64 +1,59 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv.html
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Sungkyunkwan University (SKKU)**, Suwon, South Korea
+  * B.S. in Mathematics (Expected Feb 2027)
+  * **GPA:** 4.36 / 4.5 (**Major:** 4.38 / 4.5)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
+* **Topology:** Knot Theory, Braid Groups, Jones Polynomial
+* **Machine Learning:** Deep Learning application in Math, Representation Learning
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Experience
+* **Application of Machine Learning to Knot Invariants** (Feb 2026 - Present)
+  * *Undergraduate Research Program (URP)*
+* **Span of the Jones Polynomial of Knots** (Oct 2025 - Jan 2026)
+  * *Undergraduate Research Program (URP)*
+
+---
+
+## Talks & Presentations
+* **Braid Representations of Knots** (Jan 2026)
+  * Lightning Talk @ MCUS 2026
+* **Dual Numbers and Split-Complex Numbers** (Sep 2025)
+  * Seminar @ MIMIC (Academic Club)
+* **The Farey Sequence and Ford Circles** (May 2024)
+  * Seminar @ MIMIC (Academic Club)
+
+---
+
+## Teaching Experience
+* **Undergraduate Tutor (Linear Algebra)** @ SKKU (Fall 2025)
+* **Undergraduate Tutor (Linear Algebra & Discrete Math)** @ SKKU (Spring 2024)
+
+---
+
+## Honors & Awards
+* **Insong Foundation Scholarship** (External Merit Scholarship), Insong Cultural Foundation (Fall 2025)
+* **Scholarship to the Alumni Association of Mathematics**, SKKU (Fall 2025)
+* **Top 5% Academic Scholarship**, SKKU (Spring 2024, Fall 2025)
+* **Student Success Creativity Scholarship (Top 5 of the College of Science)**, SKKU (Spring 2024)
+
+---
+
+## Academic Service & Leadership
+* **Organizer**, Mathematics Conference for Undergraduate Students (MCUS) 2026
+* **Vice President**, MIMIC (Academic Club of Mathematics), SKKU (2025 - Present)
