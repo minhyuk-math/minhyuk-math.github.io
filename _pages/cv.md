@@ -50,7 +50,7 @@ redirect_from:
 * **Insong Foundation Scholarship** (External Merit Scholarship), Insong Cultural Foundation (Fall 2025)
 * **Scholarship to the Alumni Association of Mathematics**, SKKU (Fall 2025)
 * **Top 5% Academic Scholarship**, SKKU (Spring 2024, Fall 2025)
-* **Student Success Creativity Scholarship (Top 5 of the College of Science)**, SKKU (Spring 2024)
+* **Student Success Creativity Scholarship** (Top 5 of the College of Science), SKKU (Spring 2024)
 
 ---
 
