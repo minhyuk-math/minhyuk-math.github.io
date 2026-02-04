@@ -30,7 +30,18 @@ author:
   location         : "Suwon, South Korea"
   employer         : "Sungkyunkwan University"
   uri              : # URL
-  email            : "minhyuk.lee.math@gmail.com" 
+  
+  # [보안 설정] 여기는 텍스트로만 보이는 곳이라 '####' 처리했습니다.
+  email            : "minhyuk.lee.####@gmail.com (Replace `####` with `math`)"
+
+  # [버튼 설정] 여기가 중요합니다! (들여쓰기 맞춤)
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:minhyuk.lee.math@gmail.com"  # 클릭하면 진짜 메일이 보내짐
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/minhyuk-math"
 
   # Academic websites
   academia         : # URL
@@ -46,12 +57,6 @@ author:
   scopus           : # URL
   zotero           : # URL
 
-# Social links (Email button)
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:minhyuk.lee.math@gmail.com"
-      
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -130,7 +135,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : false      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
