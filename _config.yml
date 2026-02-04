@@ -30,7 +30,7 @@ author:
   location         : "Suwon, South Korea"
   employer         : "Sungkyunkwan University"
   uri              : # URL
-  email            : "mailto:minhyuk.lee.math@gmail.com" 
+  email            : "minhyuk.lee.math@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,12 @@ author:
   scopus           : # URL
   zotero           : # URL
 
-
+# Social links (Email button)
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:minhyuk.lee.math@gmail.com"
+      
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
