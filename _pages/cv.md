@@ -39,7 +39,7 @@ redirect_from:
 ---
 
 ## Academic Training 
-* ** 2026 Winter School on Artificial Intelligence** (Feb 2026)
+* **2026 Winter School on Artificial Intelligence** (Feb 2026)
   * *Korean Mathematical Society (KMS)*
     
 ---
