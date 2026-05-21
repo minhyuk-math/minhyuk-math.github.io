@@ -23,7 +23,7 @@ repository               : "minhyuk-math/minhyuk-math.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_mh.png"
   name             : "Minhyuk Lee"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student in Mathematics @ SKKU"
