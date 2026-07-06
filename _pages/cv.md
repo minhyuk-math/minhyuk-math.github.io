@@ -18,7 +18,7 @@ redirect_from:
 ## Education
 * **Sungkyunkwan University (SKKU)**, Suwon, South Korea
   * B.S. in Mathematics (Expected Feb 2027)
-  * **GPA:** 4.36 / 4.5 (**Major:** 4.38 / 4.5)
+  * **GPA:** 4.37 / 4.5 (**Major:** 4.4   / 4.5)
 
 * **Mandatory Military Service**, Republic of Korea Army (ROKA) (Aug 2024 - June 2025)
 
@@ -47,6 +47,8 @@ redirect_from:
 ## Talks & Presentations
 * **Braid Representations of Knots** (Jan 2026)
   * Lightning Talk @ MCUS 2026
+* **Invariant of Knot** (Mar 2026)
+  * Seminar @ MIMIC (Academic Club)
 * **Dual Numbers and Split-Complex Numbers** (Sep 2025)
   * Seminar @ MIMIC (Academic Club)
 * **The Farey Sequence and Ford Circles** (May 2024)
@@ -55,12 +57,14 @@ redirect_from:
 ---
 
 ## Teaching Experience
+* **Undergraduate Tutor (Calculus I)** @ SKKU (Mar 2026)
 * **Undergraduate Tutor (Linear Algebra)** @ SKKU (Fall 2025)
 * **Undergraduate Tutor (Linear Algebra & Discrete Math)** @ SKKU (Spring 2024)
 
 ---
 
 ## Honors & Awards
+* **Chuncheon Talent Development Scholarship** (External Merit Scholarship), Chuncheon Talent Development Scholarship Foundation (Spring 2026)
 * **Insong Foundation Scholarship** (External Merit Scholarship), Insong Cultural Foundation (Fall 2025)
 * **Mathematics Alumni Association Scholarship**, SKKU (Fall 2025)
 * **Semester High Honors (Top 5% GPA)**, SKKU (Spring 2024, Fall 2025)
