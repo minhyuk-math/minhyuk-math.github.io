@@ -18,11 +18,15 @@ author_profile: true
 ### Seminars
 **@ MIMIC (Academic Club of Mathematics, SKKU)**
 
-### 1. Dual Numbers and Split-Complex Numbers
+### 1. Invariant of Knot
+* **Date:** Mar 2026
+* **Link:** [Youtube Video](https://youtu.be/O8Hq0iFgdoM)
+
+### 2. Dual Numbers and Split-Complex Numbers
 * **Date:** Sep 2025
 * **Link:** [Youtube Video](https://youtu.be/_mIcim8NtRI)
 
-### 2. The Farey Sequence and Ford Circles
+### 3. The Farey Sequence and Ford Circles
 * **Date:** May 2024
 * **Link:** [Youtube Video](https://youtu.be/_fYjjyr0DbY)
 
