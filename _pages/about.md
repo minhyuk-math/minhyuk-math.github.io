@@ -16,7 +16,7 @@ Currently, I am working on an undergraduate research project (URP) focusing on *
 ### Education
 * **Sungkyunkwan University (SKKU)**, Suwon, South Korea
   * B.S. in Mathematics (Feb 2023 - Present)
-  * GPA: 4.36 / 4.5 (Major 4.38 / 4.5)
+  * GPA: 4.37 / 4.5 (Major 4.4 / 4.5)
     
 * **Mandatory Military Service**, Republic of Korea Army (ROKA) (Aug 2024 - June 2025)
 
